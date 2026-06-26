@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Gustavo, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no EETCL, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFMG. 
+Me chamo  Gustavo Andrade, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no EETCL, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na IFMG. 
 
 <!-- <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -174,3 +174,4 @@ Me chamo Larissa Gustavo, tenho 19 anos e sou natural de Minas Gerais. Concluí 
   />
 
 </p>
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
