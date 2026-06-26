@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Andrade
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Junior`**
 
 Me chamo  Gustavo Andrade, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no EETCL, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na IFMG. 
 
@@ -174,4 +174,4 @@ Me chamo  Gustavo Andrade, tenho 19 anos e sou natural de Minas Gerais. Concluí
   />
 
 </p>
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gustavo144p/Gustavo144p/output/snake.svg" alt="Snake animation" />
